@@ -32,6 +32,6 @@ My public projects are mostly engineering experiments, tools and long-running re
 
 **Besm6.Net** — a .NET implementation of the BESM-6 computer with Dubna OS support.
 
-**MQS** — one of my projects exploring MQTT and IoT systems, simulation and testing.
+**MQS** — IoT telemetry generation and integration testing.
 
 I enjoy projects that require going below the usual application abstraction layer — whether that means studying a protocol under load, measuring CPU behavior, comparing runtimes, exploring architectures such as **Elbrus/e2k**, or implementing a historical computer architecture.
